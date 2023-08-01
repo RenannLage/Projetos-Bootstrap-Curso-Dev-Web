@@ -4,7 +4,7 @@
     Bootstrap
   </b></p>
   <p>
-    Projetos usando Bootstrap realizados durante o curso de <a href="https://www.udemy.com/course/web-completo/">Desenvolvimento Web da Udemy</a>
+    Projetos utilizando Bootstrap realizados durante o curso de <a href="https://www.udemy.com/course/web-completo/">Desenvolvimento Web da Udemy</a>
   </p>
   <p>
     <b> Projetos criados usando apenas HTML, CSS e Bootstrap </b>
