@@ -4,7 +4,7 @@
     Bootstrap
   </b></p>
   <p>
-    Projeto idealizado por mim afim de treinar os conhecimentos adquiridos sobre Bootstrap.
+    Projeto idealizado por mim, afim de treinar os conhecimentos adquiridos no curso sobre Bootstrap.
   </p>
   <p>
     Foi criado um site sobre o álbum Endless Summer Vacation da cantora Miley Cyrus. 
